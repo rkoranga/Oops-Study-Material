@@ -1,5 +1,5 @@
 # Oops-Study-Material
-Notes , assignment, Qps, Solutions, Codes for Oops
+
 
 Find OOPs Study Material Here
 1. Oops notes.
